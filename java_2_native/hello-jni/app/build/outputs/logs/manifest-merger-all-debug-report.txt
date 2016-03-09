@@ -1,0 +1,51 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidProjects\hello-jni\app\src\main\AndroidManifest.xml:2:1-19:12
+	package
+		ADDED from D:\AndroidProjects\hello-jni\app\src\main\AndroidManifest.xml:3:11-41
+		INJECTED from D:\AndroidProjects\hello-jni\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\hello-jni\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\AndroidProjects\hello-jni\app\src\main\AndroidManifest.xml:5:11-36
+		INJECTED from D:\AndroidProjects\hello-jni\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\hello-jni\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\AndroidProjects\hello-jni\app\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from D:\AndroidProjects\hello-jni\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\hello-jni\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidProjects\hello-jni\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\AndroidProjects\hello-jni\app\src\main\AndroidManifest.xml:6:3-18:17
+	android:label
+		ADDED from D:\AndroidProjects\hello-jni\app\src\main\AndroidManifest.xml:10:7-39
+	android:fullBackupContent
+		ADDED from D:\AndroidProjects\hello-jni\app\src\main\AndroidManifest.xml:8:7-40
+	android:allowBackup
+		ADDED from D:\AndroidProjects\hello-jni\app\src\main\AndroidManifest.xml:7:7-34
+	android:icon
+		ADDED from D:\AndroidProjects\hello-jni\app\src\main\AndroidManifest.xml:9:7-41
+activity#com.example.hellojni.HelloJni
+ADDED from D:\AndroidProjects\hello-jni\app\src\main\AndroidManifest.xml:11:5-17:16
+	android:label
+		ADDED from D:\AndroidProjects\hello-jni\app\src\main\AndroidManifest.xml:12:15-47
+	android:name
+		ADDED from D:\AndroidProjects\hello-jni\app\src\main\AndroidManifest.xml:11:15-39
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidProjects\hello-jni\app\src\main\AndroidManifest.xml:13:7-16:23
+action#android.intent.action.MAIN
+ADDED from D:\AndroidProjects\hello-jni\app\src\main\AndroidManifest.xml:14:9-61
+	android:name
+		ADDED from D:\AndroidProjects\hello-jni\app\src\main\AndroidManifest.xml:14:17-58
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidProjects\hello-jni\app\src\main\AndroidManifest.xml:15:9-69
+	android:name
+		ADDED from D:\AndroidProjects\hello-jni\app\src\main\AndroidManifest.xml:15:19-66
+uses-sdk
+INJECTED from D:\AndroidProjects\hello-jni\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from D:\AndroidProjects\hello-jni\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\hello-jni\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidProjects\hello-jni\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\hello-jni\app\src\main\AndroidManifest.xml

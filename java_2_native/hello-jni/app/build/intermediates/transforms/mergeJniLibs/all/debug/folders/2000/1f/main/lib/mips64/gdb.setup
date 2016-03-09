@@ -1,0 +1,2 @@
+set solib-search-path D:\AndroidProjects\hello-jni\app\build\intermediates\binaries\debug\all\lib\mips64
+directory D:\Programs\ndk/platforms/android-21/arch-mips64/usr/include D:\AndroidProjects\hello-jni\app\src\all\jni D:\AndroidProjects\hello-jni\app\src\main\jni D:\AndroidProjects\hello-jni\app\src\debug\jni D:\Programs\ndk\sources\cxx-stl/system/include D:\AndroidProjects\hello-jni\app\src\hello-jni\cpp D:\AndroidProjects\hello-jni\app\src\hello-jni\c D:\AndroidProjects\hello-jni\app\src\allDebug\jni

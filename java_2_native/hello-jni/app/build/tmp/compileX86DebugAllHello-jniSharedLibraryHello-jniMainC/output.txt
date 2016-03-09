@@ -1,0 +1,12 @@
+See file:///D:/AndroidProjects/hello-jni/app/build/tmp/compileX86DebugAllHello-jniSharedLibraryHello-jniMainC/output.txt for all output for compileX86DebugAllHello-jniSharedLibraryHello-jniMainC.
+compiling hello-jni.c successful.
+D:\AndroidProjects\hello-jni\app\src\main\jni\hello-jni.c:100:63: warning: 'struct Thread' declared inside parameter list
+                                  const Method* method, struct Thread* self);
+                                                               ^
+D:\AndroidProjects\hello-jni\app\src\main\jni\hello-jni.c:100:63: warning: its scope is only this definition or declaration, which is probably not what you want
+D:\AndroidProjects\hello-jni\app\src\main\jni\hello-jni.c: In function 'get_method':
+D:\AndroidProjects\hello-jni\app\src\main\jni\hello-jni.c:130:5: warning: return from incompatible pointer type
+     return method;
+     ^
+
+Finished compileX86DebugAllHello-jniSharedLibraryHello-jniMainC, see full log file:///D:/AndroidProjects/hello-jni/app/build/tmp/compileX86DebugAllHello-jniSharedLibraryHello-jniMainC/output.txt.

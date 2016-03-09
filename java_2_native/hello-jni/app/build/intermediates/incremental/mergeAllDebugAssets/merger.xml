@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\AndroidProjects\hello-jni\app\src\main\assets"/></dataSet><dataSet config="all"><source path="D:\AndroidProjects\hello-jni\app\src\all\assets"/></dataSet><dataSet config="debug"><source path="D:\AndroidProjects\hello-jni\app\src\debug\assets"/></dataSet><dataSet config="allDebug"><source path="D:\AndroidProjects\hello-jni\app\src\allDebug\assets"/></dataSet></merger>

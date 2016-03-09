@@ -1,0 +1,4 @@
+See file:///D:/AndroidProjects/hello-jni/app/build/tmp/linkArmeabi-v7aDebugAllHello-jniSharedLibrary/output.txt for all output for linkArmeabi-v7aDebugAllHello-jniSharedLibrary.
+linking libhello-jni.so successful.
+
+Finished linkArmeabi-v7aDebugAllHello-jniSharedLibrary, see full log file:///D:/AndroidProjects/hello-jni/app/build/tmp/linkArmeabi-v7aDebugAllHello-jniSharedLibrary/output.txt.
