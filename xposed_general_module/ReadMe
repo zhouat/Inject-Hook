@@ -17,3 +17,8 @@ args_type:
 [1]args_return_print_module.apk is the xposed module for print the target function args and return vale.
 [2]xposed folder contain xposed framework and jar
 [3]XposedHook folder contain the source code for xposed module.
+
+
+
+## some practical code snippet
+https://github.com/zhouat/Inject-Hook/wiki
