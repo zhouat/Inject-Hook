@@ -1,0 +1,14 @@
+/* Hook org.apache.http 包中的 HttpPost 请求 */
+
+XposedHelpers.findAndHookMethod("org.apache.http.impl.client.AbstractHttpClient", loadPackageParam.classLoader, "execute", HttpUriRequest.class, new XC_MethodHook() {
+
+    @Override
+    protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+        if (!param.args[0].getClass().getCanonicalName().contains("HttpPost")) {
+            return;
+        }
+        HttpPost request = (HttpPost) param.args[0];
+
+        String url = request.getURI().toString();
+    }
+}
