@@ -1,4 +1,4 @@
-/* Hook org.apache.http 包中的 HttpPost 请求 */
+## Hook org.apache.http 包中的 HttpPost 请求
 
 XposedHelpers.findAndHookMethod("org.apache.http.impl.client.AbstractHttpClient", loadPackageParam.classLoader, "execute", HttpUriRequest.class, new XC_MethodHook() {
 
